@@ -1236,8 +1236,8 @@ hash = "2e18e36b7440a9918de1ad49d287ffee27060ed5da1c971eaff188ee7ecd38ac"
 metafile = true
 
 [[files]]
-file = "mods/you-were-slain.pw.toml"
-hash = "236098ad7c4953781d73898e28b09c794281bd16f829465e038d7ee29b9193dd"
+file = "mods/you-died.pw.toml"
+hash = "e37d671b09c8dfd9d658b26e0c7afd255809e5d23f271f9b83d943836728a9e2"
 metafile = true
 
 [[files]]
