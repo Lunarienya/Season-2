@@ -606,11 +606,6 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/friends-and-foes-beekeeper-hut-fabric.pw.toml"
-hash = "d00991564f3cc58fbc259f9fd31f49b7bf5789a8af46576b5f5b2938b105ab0d"
-metafile = true
-
-[[files]]
 file = "mods/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
 hash = "f8f78fbdfa907a32c0d7bc951b9f6e5857b73639c522f1eb03f0e8610b6189fe"
 metafile = true
