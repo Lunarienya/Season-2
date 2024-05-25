@@ -1,0 +1,13 @@
+name = "TechnoPig"
+filename = "TechnoPig ResourcePack V2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NBEyMOMU/versions/5qQFsoT7/TechnoPig%20ResourcePack%20V2.1.zip"
+hash-format = "sha1"
+hash = "346756e821df0502146b6c9cbef9d3295e3075d6"
+
+[update]
+[update.modrinth]
+mod-id = "NBEyMOMU"
+version = "5qQFsoT7"

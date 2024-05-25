@@ -1,0 +1,13 @@
+name = "No More Purple"
+filename = "no-more-purple-1.2.1+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/32J251wv/versions/3U1Wj6p7/no-more-purple-1.2.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "947dfc6b72f44ad3fa7ab5ff2ec21f05a066800d"
+
+[update]
+[update.modrinth]
+mod-id = "32J251wv"
+version = "3U1Wj6p7"

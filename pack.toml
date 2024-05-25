@@ -1,0 +1,13 @@
+name = "Lunarie-2"
+author = "sammyette"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fdb2f71ece6162685962606549a703ab1ed95eafe6f1c5f0fbadf530663ca493"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"
