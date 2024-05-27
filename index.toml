@@ -1246,6 +1246,11 @@ hash = "7a21a418843066092a28002b4477318809a837368b20c68b985cf339859261eb"
 metafile = true
 
 [[files]]
+file = "mods/zoomify.pw.toml"
+hash = "a2fcbfa66810d21fc67499ea6fc65b4c465110d52c92408f6c35d7c1e1f96c6d"
+metafile = true
+
+[[files]]
 file = "options.amecsapi.txt"
 hash = "946ecce2d84f2344b0adc09d127402db073051b953b4e930198f93d36970a18a"
 
