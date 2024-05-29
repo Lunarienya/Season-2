@@ -1,0 +1,22 @@
+{
+  "main_menu": {
+    "top_left": [
+    ],
+    "top_right": [
+    ],
+    "bottom_left": [
+      {"text": "Lunarie: Season 2 v1.0.10"}
+    ],
+    "bottom_right": [],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [
+      {"text": "ᗜˬᗜ fumo"}
+    ],
+    "bottom_right": [],
+    "mod_blacklist": []
+  }
+}
