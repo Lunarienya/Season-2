@@ -33,8 +33,16 @@ file = "config/desiredservers/desiredservers.json"
 hash = "df12982736bd9d6c050c29fb65853beb2b5c096c80746e872b5bf6c281fd500b"
 
 [[files]]
+file = "config/fastload.properties"
+hash = "d7f81471ae8d75fa69418a3d5f7e0c3d8a062c321588a6ff7c732f73fcbfa0a0"
+
+[[files]]
 file = "config/invmove.json"
 hash = "9bb12ac8e02992bc0c82eecac1df589873d88d2ecb174ac01da8bcd31b796b0d"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "f2fba0c682abe6441b9f01aec74447ae3f032274ab5aa090b8ac1f84d7753de2"
 
 [[files]]
 file = "config/totemcounter.toml"
@@ -1294,14 +1302,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "a2fcbfa66810d21fc67499ea6fc65b4c465110d52c92408f6c35d7c1e1f96c6d"
 metafile = true
-
-[[files]]
-file = "options.amecsapi.txt"
-hash = "946ecce2d84f2344b0adc09d127402db073051b953b4e930198f93d36970a18a"
-
-[[files]]
-file = "options.txt"
-hash = "444bdb955e19c1bc253920ec94a83be493baaf868e36ea575d53d36d2ba7cf21"
 
 [[files]]
 file = "resourcepacks/technopig.pw.toml"
