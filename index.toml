@@ -464,8 +464,18 @@ hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-delight-compat.pw.toml"
+hash = "47658692cb711fabfd8979f13d3be74ef39056cf3e9a5407d05bc0d4e51075d9"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons-extras.pw.toml"
 hash = "5c5889f3686e3ff35ab215dc7f9f3e5e7585a0d24befe5989e0bdca47a04dac5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-terralith-compat.pw.toml"
+hash = "7c8572547d6e71b653018c3350daec54010442cba9f9517a4252bf3b8d3ecd3d"
 metafile = true
 
 [[files]]
@@ -866,6 +876,16 @@ metafile = true
 [[files]]
 file = "mods/stendhal.pw.toml"
 hash = "f891cc32728a13dec5d8763f86b926498eb745b3bd80676120292bacd03e51ab"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "52ae7d824d0e2856df296db16f108d4843a7e1fea3b1769e4678f2e5b6dd991e"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "78264cc5097e26b3c5b34fd1b01754182b4543602ea99079a5d3fa4e69a7e579"
 metafile = true
 
 [[files]]
