@@ -359,6 +359,11 @@ hash = "650bb01ab2e62006652c079d212023a26db63baf6667537c139bec0f17ac44a6"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
+metafile = true
+
+[[files]]
 file = "mods/dawn.pw.toml"
 hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
