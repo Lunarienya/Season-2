@@ -29,6 +29,10 @@ file = "config/capes.json5"
 hash = "a03fcc52bfafece66e5a0a96daa12c47741af66cbf06bab330a1b0bea32abceb"
 
 [[files]]
+file = "config/chatpatches.json"
+hash = "a036928e6aff9541555a549ba652991cc1e9c50831cb55a00faee3357662138d"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "c73cd2975fced5bbcdd507c435d852a904bdec1036a2a2df2b1b815b2235bcac"
 
