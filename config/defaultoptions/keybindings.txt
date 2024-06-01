@@ -22,7 +22,7 @@ key_key.spectatorOutlines:key.keyboard.unknown:NONE
 key_key.swapOffhand:key.keyboard.f:NONE
 key_key.saveToolbarActivator:key.keyboard.unknown:NONE
 key_key.loadToolbarActivator:key.keyboard.unknown:NONE
-key_key.advancements:key.keyboard.l:NONE
+key_key.advancements:key.keyboard.unknown:NONE
 key_key.hotbar.1:key.keyboard.1:NONE
 key_key.hotbar.2:key.keyboard.2:NONE
 key_key.hotbar.3:key.keyboard.3:NONE
@@ -64,8 +64,8 @@ key_key.exposure.camera_controls:key.keyboard.unknown:NONE
 key_key.fabricskyboxes.toggle:key.keyboard.unknown:NONE
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.f12:NONE
 key_key.feytweaks.openConfigKey:key.keyboard.unknown:NONE
-key_key.jetpack.toggle_active.description:key.keyboard.j:NONE
-key_key.jetpack.toggle_hover.description:key.keyboard.l:NONE
+key_key.jetpack.toggle_active.description:key.keyboard.1:NONE
+key_key.jetpack.toggle_hover.description:key.keyboard.2:NONE
 key_key.immersive_aircraft.multi_control_left:key.keyboard.a:NONE
 key_key.immersive_aircraft.multi_control_right:key.keyboard.d:NONE
 key_key.immersive_aircraft.multi_control_forward:key.keyboard.w:NONE
