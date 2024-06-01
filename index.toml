@@ -29,6 +29,14 @@ file = "config/capes.json5"
 hash = "a03fcc52bfafece66e5a0a96daa12c47741af66cbf06bab330a1b0bea32abceb"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "c73cd2975fced5bbcdd507c435d852a904bdec1036a2a2df2b1b815b2235bcac"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "0603d25cbf788b271e1b39a6aee9885315ba2dffc4ec8e0734c6729e144daaca"
+
+[[files]]
 file = "config/desiredservers/desiredservers.json"
 hash = "df12982736bd9d6c050c29fb65853beb2b5c096c80746e872b5bf6c281fd500b"
 
@@ -376,6 +384,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
 metafile = true
 
 [[files]]
