@@ -576,6 +576,11 @@ hash = "49dfc6e8737d45a945e5a91cfd19ec8e810eec40a0f8c16d19690633c440aca1"
 metafile = true
 
 [[files]]
+file = "mods/fxnt-create-storage.pw.toml"
+hash = "c4b1e0b9c20d612e2897ea61f7939449251ad5f071d1615c2f82d520aae9d031"
+metafile = true
+
+[[files]]
 file = "mods/gamemenuremovegfarb.pw.toml"
 hash = "769e07f03e65c6adb8708f4da6c476365b24aad10f943514d6bbd8b0f57ff327"
 metafile = true
@@ -923,11 +928,6 @@ metafile = true
 [[files]]
 file = "mods/tips.pw.toml"
 hash = "a3042f244d7f49df6ce98c3e75ec6e95eb6d2fd418cff49a4ca8ebb61b925c19"
-metafile = true
-
-[[files]]
-file = "mods/travelersbackpack.pw.toml"
-hash = "4371fb81920fbe53fafa0eef2d5f49338e20cd137575c86185658dfa94e32ac8"
 metafile = true
 
 [[files]]
