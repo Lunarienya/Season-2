@@ -54,7 +54,7 @@ hash = "9bb12ac8e02992bc0c82eecac1df589873d88d2ecb174ac01da8bcd31b796b0d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f2fba0c682abe6441b9f01aec74447ae3f032274ab5aa090b8ac1f84d7753de2"
+hash = "f504b62b7316e0f2a8f85f5aafaf36ccce7f5f7dbaff1cf81a06193bf9946d3a"
 
 [[files]]
 file = "config/totemcounter.toml"
