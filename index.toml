@@ -571,11 +571,6 @@ hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
 metafile = true
 
 [[files]]
-file = "mods/soul-fire-d.pw.toml"
-hash = "7b178c6223946a304ee0b78a14e2c35c865fbaac801b0e897c8491ac1e2b8de9"
-metafile = true
-
-[[files]]
 file = "mods/stack-refill.pw.toml"
 hash = "0226ecadb12bb3ecfb3b5508766352348d906fccf8b1144972a9e72f6ff79bb1"
 metafile = true
