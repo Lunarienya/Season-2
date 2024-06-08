@@ -54,7 +54,7 @@ hash = "9bb12ac8e02992bc0c82eecac1df589873d88d2ecb174ac01da8bcd31b796b0d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e3941a6a45e224e8ef1db316cff207464ea870913e7cf89c3255f9cc065fd88a"
+hash = "94aeca8145b040137ee567bc982c11c3612dc9bff08249cf214442377a2835fe"
 
 [[files]]
 file = "config/totemcounter.toml"
@@ -453,11 +453,6 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-hash = "e5020303f722daf230d68194a1b6e45c79bbeaa8a54b44745d04dcea94b6d88d"
 metafile = true
 
 [[files]]
