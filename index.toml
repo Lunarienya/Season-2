@@ -486,6 +486,11 @@ hash = "210f63f6db9305b53bcb2f6a0b39e2231267f0b81dcc5673bfe3e98aa07fd0b2"
 metafile = true
 
 [[files]]
+file = "mods/reacharound.pw.toml"
+hash = "1bdc2b4d59ee6805bcd05fb4a68782c2a020270a7da21531b245fd03b5ba2426"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
