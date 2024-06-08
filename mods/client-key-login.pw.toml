@@ -1,13 +1,13 @@
 name = "client key login"
-filename = "client-key-login-0.4.0+1.20.1.jar"
+filename = "client-key-login-0.4.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/USfhdKm3/versions/jSJ3SmxV/client-key-login-0.4.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/USfhdKm3/versions/Me1zmNKg/client-key-login-0.4.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "90297502ad5ac151ba3577ffab491e58b6d7e6ae"
+hash = "d1ff0080efa1d88325a0ff9b0af1604d80baf565"
 
 [update]
 [update.modrinth]
 mod-id = "USfhdKm3"
-version = "jSJ3SmxV"
+version = "Me1zmNKg"
