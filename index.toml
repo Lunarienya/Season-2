@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-key-login.pw.toml"
-hash = "97802c52b5fae139cc5cb584bfa8a0a135e685d21c5889a3263ce64757e22d36"
+hash = "88451c304eb09bae4070c191d4d1215c4ec9ffffc8dd15784f9f98a2a8768517"
 metafile = true
 
 [[files]]
