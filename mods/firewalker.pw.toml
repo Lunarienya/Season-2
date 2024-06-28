@@ -1,0 +1,13 @@
+name = "FireWalker"
+filename = "FireWalker-1.20.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q6qXUEkf/versions/UwOHEn3Y/FireWalker-1.20.2-fabric.jar"
+hash-format = "sha1"
+hash = "77ac09a30bddbce64600f9858ae2f711dfe953f7"
+
+[update]
+[update.modrinth]
+mod-id = "q6qXUEkf"
+version = "UwOHEn3Y"

@@ -1,0 +1,13 @@
+name = "Extended Enchanting"
+filename = "extended-enchanting-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pGJRuQZQ/versions/PdEXVQbz/extended-enchanting-1.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "a6bde13de6fbc6ae1b7c146132397622a250a3ba"
+
+[update]
+[update.modrinth]
+mod-id = "pGJRuQZQ"
+version = "PdEXVQbz"

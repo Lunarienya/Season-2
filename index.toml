@@ -54,7 +54,7 @@ hash = "9bb12ac8e02992bc0c82eecac1df589873d88d2ecb174ac01da8bcd31b796b0d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "94aeca8145b040137ee567bc982c11c3612dc9bff08249cf214442377a2835fe"
+hash = "327764fc580c422d34eba5c0d4ea01c7db584a8e8bb40cda463a8a7787fa3096"
 
 [[files]]
 file = "config/totemcounter.toml"
@@ -66,8 +66,18 @@ hash = "18da38fc422d0395aa2bd96e9f8aa37ea4f1bc409b1818f6330be5784e4deb03"
 metafile = true
 
 [[files]]
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "9aa5ebdf803d46de89cec36fbc208bda8e9eefc8bdace6bb9b9f924df5d0c6c4"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "034718706cd7bc9baca522753dc62e779d5025ecf7a6a9b9c1d0a2b18b73d967"
+metafile = true
+
+[[files]]
+file = "mods/allthetrims.pw.toml"
+hash = "48a1f0b47e4f84a954843228f825f16674959d1d318617fa97c0c76232b50110"
 metafile = true
 
 [[files]]
@@ -83,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "76cdee64c8da3978c5e494a88a7876bdb60d69a8acbd155d915dec2c93c3a606"
 metafile = true
 
 [[files]]
@@ -171,6 +186,11 @@ hash = "fd97376ac0b90cc73a1da94879b70a8b7d23e0bf87a0c14a9b3490e750c826dc"
 metafile = true
 
 [[files]]
+file = "mods/combatplus-core.pw.toml"
+hash = "d17c265e33dfcfed0b2672d9430bb4f0640ecfe84a1271051b8e9ed98a104930"
+metafile = true
+
+[[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "2b880a4be1a624e956fafaea89834828c58b0c512e611e6746c3fb8d9e93b260"
 metafile = true
@@ -188,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "80510227311a8bc980c2814700f450c30b825ebadb41f9f1e79400f8a7925ee8"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "809ab9c953bf5ca4647570fafbc76bc7f29ada644f9556831c196e26b1822ca3"
 metafile = true
 
 [[files]]
@@ -246,6 +271,11 @@ hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
 metafile = true
 
 [[files]]
+file = "mods/daily-rewards.pw.toml"
+hash = "6977aaad2aeadb6811f7e3a2e930814ee3556def83685a1a4d23860d70686fdf"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
 metafile = true
@@ -296,6 +326,21 @@ hash = "425c9f0b28ff03a61402618cedc52cf22456ac9afe9b2c7faa3800e53474764e"
 metafile = true
 
 [[files]]
+file = "mods/emienchants.pw.toml"
+hash = "e395cd7042592ab28ff8de5d89bd1070cce98c60cef43dc18d1dfe3e34546634"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "c80f5af57bf600ce0f77479ddc6c3c63117024ce2f334aaf384959253b6bdcdd"
+metafile = true
+
+[[files]]
+file = "mods/enchantments-plus.pw.toml"
+hash = "feb8561e937e413f063e6e3f0fd4f1eb0d1534413cb435d430c1334a5ab86771"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "9f499eff7ddb9eeab719f19808cbcf41f2b77d06ebf946f157cf7b5f52f64e70"
 metafile = true
@@ -318,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/extended-cogwheels.pw.toml"
 hash = "319b5ecd66c1efbd3741f649dbc71d7d2e8dcdc0ad708c3a4e3e529eccafa0f7"
+metafile = true
+
+[[files]]
+file = "mods/extended-enchanting.pw.toml"
+hash = "b72434fd278f309a1e398a7efdce8d5ca9afce147743a019970bb1a78b834f98"
 metafile = true
 
 [[files]]
@@ -361,6 +411,11 @@ hash = "234b120426975554aa7f9e49788c7a3ddb0d32e538f4ca102791549dec23c42b"
 metafile = true
 
 [[files]]
+file = "mods/firewalker.pw.toml"
+hash = "06ee41ecfdcd4d21484130bf08678023816ea6c6988feabbcf15fd92a145763b"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -381,6 +436,11 @@ hash = "4375a78dc2331d06b922e9011969e259e23947bb57088871d30b26d3b2ed37b6"
 metafile = true
 
 [[files]]
+file = "mods/guarding.pw.toml"
+hash = "e25880588a312809a897620f0c46c203500486a9b2ea69eb0690882a9d47335a"
+metafile = true
+
+[[files]]
 file = "mods/hand-over-your-items.pw.toml"
 hash = "b3fae6f19a5ce6132783a4eff25f6d0d2fc16ac6fa922414f87195a44c13f979"
 metafile = true
@@ -393,6 +453,21 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "71086f8974cad24543cd48f83a0f09b5a8bde7fa401c1e71f98e82a0f96a1308"
+metafile = true
+
+[[files]]
+file = "mods/improved-anvils.pw.toml"
+hash = "ae624bd5e51377b6e72991678aa16e983b4ec399e15e51a54f8f955cbeed7377"
+metafile = true
+
+[[files]]
+file = "mods/incantationem.pw.toml"
+hash = "07d544cd7b28ddb8c11461cb0046c14d83e1bec169d1790f11573ee92b40386a"
 metafile = true
 
 [[files]]
@@ -461,6 +536,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -468,6 +548,11 @@ metafile = true
 [[files]]
 file = "mods/no-night-vision-flickering.pw.toml"
 hash = "a679886f4f403a5479e932658d6ec7750f38c4fa9c10e61b02b6be23c57a5bd7"
+metafile = true
+
+[[files]]
+file = "mods/numismatics.pw.toml"
+hash = "9305abd7bed1a6175113e2fca0fe65174023cda93ce42716c5a94eba5d715bbf"
 metafile = true
 
 [[files]]
@@ -588,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/wdmgslt.pw.toml"
 hash = "42a264095d31299b8a7b77118176616cd84b77369e48d593ab8fc5f82d395b4e"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "fb317684448237e6abc00d035d2054d57ab00a85303056391bf721e15b2298e0"
 metafile = true
 
 [[files]]
