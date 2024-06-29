@@ -54,7 +54,7 @@ hash = "9bb12ac8e02992bc0c82eecac1df589873d88d2ecb174ac01da8bcd31b796b0d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "213713d86282487571cca2f7b0d90f31da1a5c6dc7a7bfa61fc8d40508d02d06"
+hash = "279ff645b23aa29b8554ca5dc1c42755649ec119057265d2bb1bf4f39614d97a"
 
 [[files]]
 file = "config/totemcounter.toml"
@@ -423,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/fxnt-bitsnbobs.pw.toml"
+hash = "2e005e986281789adf27a4a285f059d2e91afc25b0cc7a3bc49436fb7b75d525"
 metafile = true
 
 [[files]]

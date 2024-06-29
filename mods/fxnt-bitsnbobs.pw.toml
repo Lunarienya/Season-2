@@ -1,0 +1,13 @@
+name = "FXNT BitsNBobs"
+filename = "bitsnbobs-0.4-1.20.1-FABRIC+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "860ddfdd00e66ed589238448dd0110b77895b489"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5329167
+project-id = 978971
