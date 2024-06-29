@@ -54,7 +54,7 @@ hash = "9bb12ac8e02992bc0c82eecac1df589873d88d2ecb174ac01da8bcd31b796b0d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4636ba791d11da2b3ce21d695a95fb3f4b3a9216e2ba60f3984112d23a9a0c18"
+hash = "bbd7baf25ab7a1124b12cfaebb87cc592934ce6a112bfde90a26c6903531b892"
 
 [[files]]
 file = "config/totemcounter.toml"
@@ -461,6 +461,11 @@ hash = "17e0130bc29e14dd26019d0f0ccef1fab6f8dc7ab2a5ea60a6c734cae127d741"
 metafile = true
 
 [[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "79a44cccc73cb418b07f2bea85029a82428065e73519ef5b9c0444f77b041f53"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
 metafile = true
@@ -642,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
+hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
 metafile = true
 
 [[files]]
