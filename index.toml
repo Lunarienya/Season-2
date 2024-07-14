@@ -86,6 +86,11 @@ hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
 metafile = true
 
 [[files]]
+file = "mods/anvil-restoration.pw.toml"
+hash = "1ddd3aa22f767164bcd0a8a3d37f30c166bc8764f8f7bfedf52d1560837f8a2a"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -113,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
+metafile = true
+
+[[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "a3cb67ec07bf96deae57a095a0d2b2a77954914084b7e120cad8ad67fabc00ac"
 metafile = true
 
 [[files]]
@@ -296,6 +306,11 @@ hash = "4620c40cc1a4acb7d70b8f262a573d2ec8c67a4843b874363f47c6dcca9cf420"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "104c41bdffa7018ee788f6539e8f343e749a715160d6f5c3a9903c529497a6c8"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "6992619452254eac894dbaaaff722c4dfa3d3576405f1b3c4d9782fe98aaf7e1"
 metafile = true
@@ -303,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "877acc5e4524e8eb6e1afe4bcdb78586ab705526c90c6b90936f5a5480034a04"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "66bfaf23e46a6862f29ad0a95d09ccee0039bfc1f3d5d227956225cdddc0085c"
 metafile = true
 
 [[files]]
@@ -333,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/emienchants.pw.toml"
 hash = "e395cd7042592ab28ff8de5d89bd1070cce98c60cef43dc18d1dfe3e34546634"
+metafile = true
+
+[[files]]
+file = "mods/enchant-tweaker.pw.toml"
+hash = "253bd71361eedba6b5863b341a9319f9dfdcd4e8982cf3b24040c04803894f6a"
 metafile = true
 
 [[files]]
@@ -456,6 +481,11 @@ hash = "b3fae6f19a5ce6132783a4eff25f6d0d2fc16ac6fa922414f87195a44c13f979"
 metafile = true
 
 [[files]]
+file = "mods/healing-campfire.pw.toml"
+hash = "fcb8793171630273c8752c2c6ba550258037bb7b3d17bb290d2e4971c27b0655"
+metafile = true
+
+[[files]]
 file = "mods/highlight.pw.toml"
 hash = "17e0130bc29e14dd26019d0f0ccef1fab6f8dc7ab2a5ea60a6c734cae127d741"
 metafile = true
@@ -468,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "e6a6e00decbfb4fd1176a2cfff45476d18b13f37d5097b88361da6af8dedc9f2"
 metafile = true
 
 [[files]]
@@ -488,6 +523,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
+metafile = true
+
+[[files]]
+file = "mods/infinite-trading.pw.toml"
+hash = "d914f0be41988228fe35525b25d4c63b5b5dbbf664bd7322dfc3f831c9fccb17"
 metafile = true
 
 [[files]]
@@ -526,6 +566,16 @@ hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
 
 [[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "ed2ff97cf59a6c5b9f4e509edbc8c48944bb3c98795f6738c8dfec353cbe350d"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "3b92cebe97fe4c46fad28178fc1027c42ddbaf13ad2b541aa9b7516a4aa45fc1"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
@@ -556,6 +606,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
 metafile = true
@@ -566,13 +621,28 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
+file = "mods/no-hostiles-around-campfire.pw.toml"
+hash = "f71f5488773f3380be6d6f9ac8d59616b0dba2089178a60227d01fd2939edc50"
+metafile = true
+
+[[files]]
 file = "mods/no-night-vision-flickering.pw.toml"
 hash = "a679886f4f403a5479e932658d6ec7750f38c4fa9c10e61b02b6be23c57a5bd7"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "e7712ecf20e3c2e52da19f968762b671726222cbc4c48206231b56b6c6cd79a7"
+metafile = true
+
+[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "9305abd7bed1a6175113e2fca0fe65174023cda93ce42716c5a94eba5d715bbf"
+metafile = true
+
+[[files]]
+file = "mods/paper-books.pw.toml"
+hash = "3bf0bd86047a6bde0b1c572d090f83611fc7014da7006effc663d96031fd11cb"
 metafile = true
 
 [[files]]
@@ -616,6 +686,11 @@ hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
 metafile = true
 
 [[files]]
+file = "mods/scaffolding-drops-nearby.pw.toml"
+hash = "8d1c69e2c817e1f6fabe2629a856b62b552c0df551598e1fd65ced36f6bd1854"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
@@ -646,6 +721,11 @@ hash = "708ac4fc4da8bba3f5aedcd8534bd15dee339aacbeb3f3f75b17f5a748c67679"
 metafile = true
 
 [[files]]
+file = "mods/smaller-nether-portals.pw.toml"
+hash = "76821936a024be94aa53f4986222f74608dc877f32a4250d01a2ed77d804c28a"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
 metafile = true
@@ -653,6 +733,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
@@ -676,8 +761,18 @@ hash = "a3042f244d7f49df6ce98c3e75ec6e95eb6d2fd418cff49a4ca8ebb61b925c19"
 metafile = true
 
 [[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "5dc49fed1045ca205ac2a750bb34e3e2526bf9577498b4013fc79efd67e6dd89"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/underwater-enchanting.pw.toml"
+hash = "fd7f8eb55c497de3c045c0f5e8a766c842e9c191b049af08954f31973c4b1cc5"
 metafile = true
 
 [[files]]
@@ -706,8 +801,18 @@ hash = "fb317684448237e6abc00d035d2054d57ab00a85303056391bf721e15b2298e0"
 metafile = true
 
 [[files]]
+file = "mods/xaero-zoomout.pw.toml"
+hash = "0fa5bab5449065f1ffe3f594063f28b10d57f4c95db5d2f3416e857abbd447a3"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "74a5d6dc2fa3494650bf951f2212c70eeb6b8d1af209b5dab4b7a8582302865c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "a66f114b66d41c0de64f6d7cb00d253b858ecb8dfef497aed5feac1a690111a2"
 metafile = true
 
 [[files]]
