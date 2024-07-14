@@ -772,6 +772,11 @@ hash = "fd7f8eb55c497de3c045c0f5e8a766c842e9c191b049af08954f31973c4b1cc5"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-refresh.pw.toml"
+hash = "65c6a19fc252bbdba213abe2fa182ec1859fc6072d7ae26b564cbe7fac836852"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
 metafile = true
