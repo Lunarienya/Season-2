@@ -34,11 +34,11 @@ hash = "a036928e6aff9541555a549ba652991cc1e9c50831cb55a00faee3357662138d"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "e13f42d30cfacf389e4cf8b1df2f32e08fb1b8f44a6a5d6e9bb6aee60133d62f"
+hash = "34c68e505f422bb38f4b9d147eaf406efd3f4c350265a922de84287a1fd3ad61"
 
 [[files]]
 file = "config/desiredservers/desiredservers.json"
-hash = "df12982736bd9d6c050c29fb65853beb2b5c096c80746e872b5bf6c281fd500b"
+hash = "78d3edf84b6923d5844a8939dd17da73300433cfb214ca959a534233b5e87c12"
 
 [[files]]
 file = "config/fastload.properties"
@@ -50,7 +50,7 @@ hash = "9bb12ac8e02992bc0c82eecac1df589873d88d2ecb174ac01da8bcd31b796b0d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7a9ce58b27c705f74b2cd921b7f5f30a7faa052e1746189231bf7f10cc439a6f"
+hash = "6ad1d7948c6e608ef8c88ce16203ab3d7c192ca2a52911c1b64a0ee3b96b0896"
 
 [[files]]
 file = "config/totemcounter.toml"

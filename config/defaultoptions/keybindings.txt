@@ -38,7 +38,6 @@ key_key.screenshot:key.keyboard.f2:NONE
 key_key.smoothCamera:key.keyboard.unknown:NONE
 key_key.fullscreen:key.keyboard.f11:NONE
 key_key.togglePerspective:key.keyboard.grave.accent:NONE
-key_:key.keyboard.unknown:NONE
 key_key.ad_astra.open_radio:key.keyboard.r:NONE
 key_key.ad_astra.toggle_suit_flight:key.keyboard.f:NONE
 key_key.amecs.toggle_cape:key.keyboard.unknown:NONE
@@ -58,19 +57,12 @@ key_create.keyinfo.toolmenu:key.keyboard.left.alt:NONE
 key_key.entityculling.toggle:key.keyboard.unknown:NONE
 key_key.estrogen.dash:key.keyboard.x:NONE
 key_key.exposure.camera_controls:key.keyboard.unknown:NONE
-key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.f12:NONE
-key_key.fabricskyboxes.toggle:key.keyboard.unknown:NONE
 key_key.feytweaks.openConfigKey:key.keyboard.unknown:NONE
 key_key.jetpack.toggle_hover.description:key.keyboard.l:NONE
 key_key.jetpack.toggle_active.description:key.keyboard.j:NONE
-key_key.freecam.configGui:key.keyboard.unknown:NONE
-key_key.freecam.playerControl:key.keyboard.unknown:NONE
-key_key.freecam.tripodReset:key.keyboard.unknown:NONE
-key_key.freecam.toggle:key.keyboard.f4:NONE
 key_key.fxntstorage.clear_backpack_shape_cache:key.keyboard.f10:NONE
 key_key.fxntstorage.open_backpack:key.keyboard.g:NONE
 key_key.fxntstorage.backpack_hover:key.keyboard.h:NONE
-key_nopey.ibrextras.key.enable:key.keyboard.unknown:NONE
 key_key.immersive_aircraft.multi_control_backward:key.keyboard.s:NONE
 key_key.immersive_aircraft.dismount:key.keyboard.left.shift:NONE
 key_key.immersive_aircraft.multi_control_down:key.keyboard.left.shift:NONE
@@ -146,4 +138,4 @@ key_iris.keybind.reload:key.keyboard.unknown:NONE
 key_iris.keybind.shaderPackSelection:key.keyboard.o:NONE
 key_iris.keybind.toggleShaders:key.keyboard.k:NONE
 key_iris.keybind.wireframe:key.keyboard.unknown:NONE
-key_key.craftpresence.config_keycode.name:key.keyboard.unknown:NONE
+key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent:NONE
