@@ -222,6 +222,11 @@ hash = "ad158013fd103e09cd582dd64454370666d51c777ac311bb49f495e5d41398e0"
 metafile = true
 
 [[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "72a3735d583544a0d2ceb43b43426d4cda9bf099097216e9824f12272a973025"
+metafile = true
+
+[[files]]
 file = "mods/combatlog.pw.toml"
 hash = "7bda6abf98f33be0f10b219deba36e3b7af97c2a74068c20636b0974a9c08cb7"
 metafile = true
@@ -229,6 +234,11 @@ metafile = true
 [[files]]
 file = "mods/combatplus-core.pw.toml"
 hash = "d17c265e33dfcfed0b2672d9430bb4f0640ecfe84a1271051b8e9ed98a104930"
+metafile = true
+
+[[files]]
+file = "mods/companion.pw.toml"
+hash = "92fb149b9a3b60a154b9bd1653229985cfe820bd4695ab960ba7a78940613342"
 metafile = true
 
 [[files]]
@@ -352,6 +362,11 @@ hash = "877acc5e4524e8eb6e1afe4bcdb78586ab705526c90c6b90936f5a5480034a04"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "67f86fbf1f85c1bb895d12c81bc6546befdc1b5f2016e50f25e90f4738e28aea"
+metafile = true
+
+[[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "66bfaf23e46a6862f29ad0a95d09ccee0039bfc1f3d5d227956225cdddc0085c"
 metafile = true
@@ -404,6 +419,11 @@ metafile = true
 [[files]]
 file = "mods/enchantments-plus.pw.toml"
 hash = "feb8561e937e413f063e6e3f0fd4f1eb0d1534413cb435d430c1334a5ab86771"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-weather.pw.toml"
+hash = "8e8c7dbc64b07e88e4e7f19b88bf9e5d8f97cac3082fdac76f2ef5e0f7be658c"
 metafile = true
 
 [[files]]
@@ -682,6 +702,11 @@ hash = "e7712ecf20e3c2e52da19f968762b671726222cbc4c48206231b56b6c6cd79a7"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "5b00ec4044d3eddf2b141c9f5b703d3a703c3ac5114c0d1354c953edb3f3ed5b"
+metafile = true
+
+[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "9305abd7bed1a6175113e2fca0fe65174023cda93ce42716c5a94eba5d715bbf"
 metafile = true
@@ -704,6 +729,11 @@ metafile = true
 [[files]]
 file = "mods/particle-tweaks.pw.toml"
 hash = "95fc867ea2a193f9f510aef8c39dd4137b1bda9d401e465aa804d2451730e828"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
@@ -804,6 +834,16 @@ metafile = true
 [[files]]
 file = "mods/stendhal.pw.toml"
 hash = "f891cc32728a13dec5d8763f86b926498eb745b3bd80676120292bacd03e51ab"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "1624e47e8890c8e7a09a7f808f2fd3f01b6d07ce350e9b9c7ccc86aea9eda1fa"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "e4ec2a3489da9a8cf2b16abfbca6d62ef3dd0c6112d16d939641c16c5a796bea"
 metafile = true
 
 [[files]]
