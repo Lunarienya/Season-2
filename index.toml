@@ -137,6 +137,21 @@ hash = "cececdd6c8b1b3ebe9907176ec8eb9510ccfde9b1bcfc7f05f92383867ae216e"
 metafile = true
 
 [[files]]
+file = "mods/blossomback.pw.toml"
+hash = "a766348290165318c72c184ae3b3787e91a66337fb378dd17a2f81019d62882d"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "1f8282011aff9b7dd11cf2568f85ee72635b7927d79b423aa38494d0733eac67"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "e6702c94b6ac5ce552b91db8319b9075bd7ea1c74baab7987b8ad9fc51055b4d"
+metafile = true
+
+[[files]]
 file = "mods/boathud.pw.toml"
 hash = "f351f6d8436e6148b06f381bfa00796537feeec943735179695beea6fbed1101"
 metafile = true
@@ -177,6 +192,16 @@ hash = "692204b425967feefcdd8f2ce4046c7e0c68376d7496401b846590bbfc622b56"
 metafile = true
 
 [[files]]
+file = "mods/chunky-extension.pw.toml"
+hash = "a217e41e6f44af521e40325b4e4fbedc918b97149ee65f81a0d4ec4c211a0432"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
+metafile = true
+
+[[files]]
 file = "mods/clean-f3.pw.toml"
 hash = "73ca360d1e06a82d5bf205d3898b420674bd5e85e3626f37f9ae7a10dc48beb1"
 metafile = true
@@ -194,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "ad158013fd103e09cd582dd64454370666d51c777ac311bb49f495e5d41398e0"
+metafile = true
+
+[[files]]
+file = "mods/combatlog.pw.toml"
+hash = "7bda6abf98f33be0f10b219deba36e3b7af97c2a74068c20636b0974a9c08cb7"
 metafile = true
 
 [[files]]
@@ -287,6 +317,11 @@ hash = "6977aaad2aeadb6811f7e3a2e930814ee3556def83685a1a4d23860d70686fdf"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "1af769bd9f498ed9eeb3ca10a6895bf1eaff8799c37f2b57bb58e5aa413c8666"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
 metafile = true
@@ -319,6 +354,11 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "66bfaf23e46a6862f29ad0a95d09ccee0039bfc1f3d5d227956225cdddc0085c"
+metafile = true
+
+[[files]]
+file = "mods/easywhitelist.pw.toml"
+hash = "1a0243a12504f26462f34372d8adf7578739716bc2b004fcbba2f44a07cd85a7"
 metafile = true
 
 [[files]]
@@ -467,6 +507,11 @@ hash = "33dfeaeec4730da684884aff3b41b7ff2ed43839239c36c762b3102524ebdce3"
 metafile = true
 
 [[files]]
+file = "mods/gotta-go-fast-fabric.pw.toml"
+hash = "6beecae4007fc03a0fc56f4c9338492852351422ecb50aa41e9c04b6c5e259d1"
+metafile = true
+
+[[files]]
 file = "mods/guarding.pw.toml"
 hash = "e25880588a312809a897620f0c46c203500486a9b2ea69eb0690882a9d47335a"
 metafile = true
@@ -489,6 +534,11 @@ metafile = true
 [[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "79a44cccc73cb418b07f2bea85029a82428065e73519ef5b9c0444f77b041f53"
+metafile = true
+
+[[files]]
+file = "mods/icterine.pw.toml"
+hash = "93cdd634f12d54a53e669782083d732a091b043724e3ce0afbcbee96fafd856e"
 metafile = true
 
 [[files]]
@@ -637,6 +687,11 @@ hash = "9305abd7bed1a6175113e2fca0fe65174023cda93ce42716c5a94eba5d715bbf"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
 file = "mods/paper-books.pw.toml"
 hash = "3bf0bd86047a6bde0b1c572d090f83611fc7014da7006effc663d96031fd11cb"
 metafile = true
@@ -694,6 +749,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-viewer.pw.toml"
 hash = "2a3952446f1c8e8e9be2f79676510faeb92c130c10ff74f2d8d2cf89db55708b"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
@@ -767,6 +827,11 @@ hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
+file = "mods/tt20.pw.toml"
+hash = "7582bb66e4897f258cb68e73226ce7a39a2b8c940d4d87fe7c6d7e91f69e4f51"
+metafile = true
+
+[[files]]
 file = "mods/underwater-enchanting.pw.toml"
 hash = "fd7f8eb55c497de3c045c0f5e8a766c842e9c191b049af08954f31973c4b1cc5"
 metafile = true
@@ -779,6 +844,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
 
 [[files]]
@@ -834,6 +904,31 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "5aa508141e85bc3e7e94e9a6df06fa50365623af4b83f94540a81433bb0df318"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "e7e2cc03c81bad91f62c77e988a3ac2c198a5c3e9a11ba7a7ca6d8cdc7122a60"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "540d5f43dc1c27980097f1d11609ffa3b863e36910d835c16e51ea10ee40ae8c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "ceffda181c95ab0ecbc91e01071d2df27d53117da2ae6453c1f0bb46be0fe4f0"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "925ed414ce82dd8e694288782a43a9ebaa5eb1752d7ad4e4ce3dd359040402e5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "6778fcadacf18b05b5acfae80e9249995b27e8531239ddad05ad3bb7e68707c1"
 metafile = true
 
 [[files]]
