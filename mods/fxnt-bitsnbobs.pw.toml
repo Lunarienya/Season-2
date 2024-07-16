@@ -1,13 +1,13 @@
 name = "FXNT BitsNBobs"
-filename = "bitsnbobs-0.4-1.20.1-FABRIC+1.20.1.jar"
+filename = "bitsnbobs-0.15-1.20.1-FABRIC+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XHWdUtij/versions/7DaD9OIc/bitsnbobs-0.4-1.20.1-FABRIC%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/XHWdUtij/versions/SbPxsjeP/bitsnbobs-0.15-1.20.1-FABRIC%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "860ddfdd00e66ed589238448dd0110b77895b489"
+hash = "be757d9f795c426b015405966bee9f34abba0128"
 
 [update]
 [update.modrinth]
 mod-id = "XHWdUtij"
-version = "7DaD9OIc"
+version = "SbPxsjeP"
